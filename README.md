@@ -1,6 +1,6 @@
 # GoogleAPIBot
 
-##LICENSE
+## LICENSE
 
 MIT License
 
