@@ -16,4 +16,4 @@ async def test(ctx):
 
 client = discord.Client(intents=intents)
 
-client.run('MTEyMDU1MTMxMzIzNTc3OTczNg.GhtISb.R2McLyK3lSI5I5GIElQgUO4UzvK_DrGEfPb_G4')
+client.run('e')
